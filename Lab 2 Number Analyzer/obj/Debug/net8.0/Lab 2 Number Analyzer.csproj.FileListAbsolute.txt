@@ -1,0 +1,15 @@
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\bin\Debug\net8.0\Lab 2 Number Analyzer.exe
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\bin\Debug\net8.0\Lab 2 Number Analyzer.deps.json
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\bin\Debug\net8.0\Lab 2 Number Analyzer.runtimeconfig.json
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\bin\Debug\net8.0\Lab 2 Number Analyzer.dll
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\bin\Debug\net8.0\Lab 2 Number Analyzer.pdb
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\obj\Debug\net8.0\Lab 2 Number Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\obj\Debug\net8.0\Lab 2 Number Analyzer.AssemblyInfoInputs.cache
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\obj\Debug\net8.0\Lab 2 Number Analyzer.AssemblyInfo.cs
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\obj\Debug\net8.0\Lab 2 Number Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\obj\Debug\net8.0\Lab 2 Number Analyzer.sourcelink.json
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\obj\Debug\net8.0\Lab 2 Number Analyzer.dll
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\obj\Debug\net8.0\refint\Lab 2 Number Analyzer.dll
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\obj\Debug\net8.0\Lab 2 Number Analyzer.pdb
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\obj\Debug\net8.0\Lab 2 Number Analyzer.genruntimeconfig.cache
+C:\Users\vicpb\Downloads\Lab 2 Number Analyzer\Lab 2 Number Analyzer\obj\Debug\net8.0\ref\Lab 2 Number Analyzer.dll
